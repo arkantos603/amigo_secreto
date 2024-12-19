@@ -32,3 +32,4 @@ class Sorteio(BaseModel):
 
 class MatchRequest(BaseModel):
     grupo_id: UUID
+

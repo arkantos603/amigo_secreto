@@ -35,3 +35,10 @@ class Sorteio(Base):
     grupo_id = Column(UUID(as_uuid=True), ForeignKey("grupos.id"))
     usuario_id = Column(UUID(as_uuid=True), ForeignKey("usuarios.id"))
     amigo_id = Column(UUID(as_uuid=True), ForeignKey("usuarios.id"))
+
+class Admin(Base):
+    __tablename__ = "admins"
+
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4, index=True)
+    login = Column(String)
+    senha = Column(String)

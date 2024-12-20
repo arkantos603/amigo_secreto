@@ -1,6 +1,6 @@
 # API de Sorteio de Amigo Oculto 🎉
 
-Este projeto foi desenvolvido para a API|G-F de Natal, onde deveríamos criar a própria API para realizar sorteios de amigo oculto. Decidimos utilizar a API criada pelo João Carlos, já que todas as rotas estavam funcionando perfeitamente.
+Este projeto foi desenvolvido para a API|G-F de Natal, onde deveríamos criar a própria API para realizar sorteios de amigo oculto. Desenvolvido por João Carlos e Mariana Andrade, utilizamos FASTAPI para criar as rotas, estas que estão funcionando perfeitamente.
 
 ## Organização do Projeto
 

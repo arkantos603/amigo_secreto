@@ -1,6 +1,6 @@
 # API de Sorteio de Amigo Oculto 🎉
 
-Este projeto foi desenvolvido para a API|G-F de Natal, onde deveríamos criar a própria API para realizar sorteios de amigo oculto. Desenvolvido por João Carlos e Mariana Andrade, utilizamos FASTAPI para criar as rotas, estas que estão funcionando perfeitamente.
+Este projeto foi desenvolvido para a API|G-F de Natal, onde deveríamos criar a própria API para realizar sorteios de amigo oculto. Desenvolvido por João Carlos e Mariana Oliveira, utilizamos FASTAPI para criar as rotas, estas que estão funcionando perfeitamente.
 
 ## Organização do Projeto
 
@@ -9,7 +9,7 @@ Além disso, iniciamos a implementação de autenticação para as rotas, mas n�
 
 ## Banco de dados
 
-Foi utilizado o banco de dados SQLite para armazenamento dos dados.
+Utilizamos SQLAlchemy para armazenamento dos dados e persistência.
 
 ## Rotas da API
 
